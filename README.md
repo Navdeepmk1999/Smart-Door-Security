@@ -24,10 +24,10 @@ Located in the `/Lambda` directory. Each function is organized into its own fold
 - **Security & Logs**: `MotionDetection`, `unusual-activity`, `fetchLogs`, `analytics`
 
 ##  Features
-* [cite_start]**Facial Recognition**: Automatically grants access to recognized users using Amazon Rekognition[cite: 8].
-* [cite_start]**Visitor OTP**: Unregistered visitors can request a temporary OTP for access[cite: 65].
+* **Facial Recognition**: Automatically grants access to recognized users using Amazon Rekognition.
+* **Visitor OTP**: Unregistered visitors can request a temporary OTP for access.
 * **Live Analytics**: Owners can track approvals, rejections, and unlock patterns.
-* [cite_start]**Security Alerts**: Suspicious activities trigger alerts stored in S3 and DynamoDB[cite: 36].
+* **Security Alerts**: Suspicious activities trigger alerts stored in S3 and DynamoDB.
 
 ##  Tech Stack
 * **Cloud Provider**: AWS
